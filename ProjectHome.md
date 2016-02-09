@@ -1,0 +1,2 @@
+- Set audio to come out of earpiece instead of speaker
+- Boost audio
